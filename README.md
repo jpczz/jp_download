@@ -32,7 +32,7 @@ Este comando irá:
 - Baixar de uma câmera específica:
 Se você quiser baixar os arquivos de uma câmera específica, utilize o parâmetro --camera-key seguido da chave da câmera desejada.
 
-python jp_download.py --download --camera-key "Canon Inc.|Canon EOS REBEL T2i|1923127453"
+python jp_download.py --camera-key "Canon Inc.|Canon EOS REBEL T2i|1923127453"
 
 Tratamento de erros:
 
